@@ -1,0 +1,19 @@
+block content - 
+	block number
+	nonce
+	file
+	signature 1
+	signature 2
+	previous hash
+	hash
+
+
+0 users.
+
+Student comes in.
+Logs in. -- auth complete it is a student.
+
+To upload certificate. Student will create a block.
+Fill up all details. 
+Put up the file.
+
